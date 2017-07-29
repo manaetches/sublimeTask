@@ -6,7 +6,7 @@
         <script type="text/javascript" src="js/linegraph.js"></script>
     <style>
     .chart-container {
-        width: 640px;
+        width: 800px;
         height: auto;
     }
     label{
